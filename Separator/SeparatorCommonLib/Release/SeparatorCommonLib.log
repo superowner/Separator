@@ -1,0 +1,14 @@
+﻿生成启动时间为 2015/11/21 23:00:59。
+     1>项目“E:\Separator\SeparatorCommonLib\SeparatorCommonLib.vcxproj”在节点 3 上(Build 个目标)。
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Separator\Release\SeparatorCommonLib.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Separator\Release\SeparatorCommonLib.pdb" /SUBSYSTEM:WINDOWS,"5.01" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Separator\Release\SeparatorCommonLib.lib" /MACHINE:X86 /SAFESEH /DLL Release\dllmain.obj
+         Release\SeparatorCommonLib.obj
+            正在创建库 E:\Separator\Release\SeparatorCommonLib.lib 和对象 E:\Separator\Release\SeparatorCommonLib.exp
+         正在生成代码
+     1>e:\separator\separatorcommonlib\separatorcommonlib.cpp(14): error C4716: “sceOpenFile”: 必须返回一个值
+     1>LINK : fatal error LNK1257: 代码生成失败
+     1>已完成生成项目“E:\Separator\SeparatorCommonLib\SeparatorCommonLib.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.14
